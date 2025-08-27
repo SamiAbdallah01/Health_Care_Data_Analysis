@@ -1,6 +1,10 @@
 # Health_Care_Data_Analysis
 Power BI dashboard for analyzing healthcare data, focusing on patient demographics, treatment outcomes, and hospital performance metrics.
 
+![Dashboard Page 1](images/page1.png)
+![Dashboard Page 2](images/page2.png)
+![Dashboard Page 2](images/page3.png)
+
 ## 📊 Dashboard Features
 
 - Patient distribution by age, gender, and region
